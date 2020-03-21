@@ -1,0 +1,8 @@
+E:\Education\Projects\Projects\#Programlar\Donanım Karşılaştırma BASIC\Donanım Karşılaştırma Caner Şermet\obj\Debug\Hardware-Scan.csprojAssemblyReference.cache
+E:\Education\Projects\Projects\#Programlar\Donanım Karşılaştırma BASIC\Donanım Karşılaştırma Caner Şermet\obj\Debug\Hardware.AnaForm.resources
+E:\Education\Projects\Projects\#Programlar\Donanım Karşılaştırma BASIC\Donanım Karşılaştırma Caner Şermet\obj\Debug\Hardware-Scan.csproj.GenerateResource.cache
+E:\Education\Projects\Projects\#Programlar\Donanım Karşılaştırma BASIC\Donanım Karşılaştırma Caner Şermet\obj\Debug\Donanım Karşılaştırma Caner Şermet.exe
+E:\Education\Projects\Projects\#Programlar\Donanım Karşılaştırma BASIC\Donanım Karşılaştırma Caner Şermet\obj\Debug\Donanım Karşılaştırma Caner Şermet.pdb
+E:\Education\Projects\Projects\#Programlar\Donanım Karşılaştırma BASIC\Donanım Karşılaştırma Caner Şermet\bin\Debug\Donanım Karşılaştırma Caner Şermet.exe
+E:\Education\Projects\Projects\#Programlar\Donanım Karşılaştırma BASIC\Donanım Karşılaştırma Caner Şermet\bin\Debug\Donanım Karşılaştırma Caner Şermet.pdb
+E:\Education\Projects\Projects\#Programlar\Donanım Karşılaştırma BASIC\Donanım Karşılaştırma Caner Şermet\obj\Debug\Donanım_Karşılaştırma_Caner_Şermet.Properties.Resources.resources

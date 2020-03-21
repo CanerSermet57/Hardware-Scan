@@ -1,0 +1,36 @@
+c:\users\ci5\documents\visual studio 2015\Projects\Donanım Karşılaştırma Caner Şermet\Donanım Karşılaştırma Caner Şermet\bin\Debug\Donanım Karşılaştırma Caner Şermet.exe
+c:\users\ci5\documents\visual studio 2015\Projects\Donanım Karşılaştırma Caner Şermet\Donanım Karşılaştırma Caner Şermet\bin\Debug\Donanım Karşılaştırma Caner Şermet.pdb
+c:\users\ci5\documents\visual studio 2015\Projects\Donanım Karşılaştırma Caner Şermet\Donanım Karşılaştırma Caner Şermet\obj\Debug\Donanım Karşılaştırma Caner Şermet.csprojResolveAssemblyReference.cache
+c:\users\ci5\documents\visual studio 2015\Projects\Donanım Karşılaştırma Caner Şermet\Donanım Karşılaştırma Caner Şermet\obj\Debug\Donanım_Karşılaştırma_Caner_Şermet.Properties.Resources.resources
+c:\users\ci5\documents\visual studio 2015\Projects\Donanım Karşılaştırma Caner Şermet\Donanım Karşılaştırma Caner Şermet\obj\Debug\Donanım Karşılaştırma Caner Şermet.csproj.GenerateResource.Cache
+c:\users\ci5\documents\visual studio 2015\Projects\Donanım Karşılaştırma Caner Şermet\Donanım Karşılaştırma Caner Şermet\obj\Debug\Donanım Karşılaştırma Caner Şermet.exe
+c:\users\ci5\documents\visual studio 2015\Projects\Donanım Karşılaştırma Caner Şermet\Donanım Karşılaştırma Caner Şermet\obj\Debug\Donanım Karşılaştırma Caner Şermet.pdb
+c:\users\ci5\documents\visual studio 2015\Projects\Donanım Karşılaştırma Caner Şermet\Donanım Karşılaştırma Caner Şermet\obj\Debug\Donanım_Karşılaştırma_Caner_Şermet.AnaForm.resources
+C:\Users\CI5\Desktop\Donanım Karşılaştırma Caner Şermet\Donanım Karşılaştırma Caner Şermet\obj\Debug\Donanım Karşılaştırma Caner Şermet.exe
+C:\Users\CI5\Desktop\Donanım Karşılaştırma Caner Şermet\Donanım Karşılaştırma Caner Şermet\obj\Debug\Donanım Karşılaştırma Caner Şermet.pdb
+C:\Users\CI5\Desktop\Donanım Karşılaştırma Caner Şermet\Donanım Karşılaştırma Caner Şermet\bin\Debug\Donanım Karşılaştırma Caner Şermet.exe
+C:\Users\CI5\Desktop\Donanım Karşılaştırma Caner Şermet\Donanım Karşılaştırma Caner Şermet\bin\Debug\Donanım Karşılaştırma Caner Şermet.pdb
+C:\Users\CI5\Desktop\Donanım Karşılaştırma Caner Şermet\Donanım Karşılaştırma Caner Şermet\obj\Debug\Donanım Karşılaştırma Caner Şermet.csprojResolveAssemblyReference.cache
+C:\Users\CI5\Desktop\Donanım Karşılaştırma Caner Şermet\Donanım Karşılaştırma Caner Şermet\obj\Debug\Donanım_Karşılaştırma_Caner_Şermet.AnaForm.resources
+C:\Users\CI5\Desktop\Donanım Karşılaştırma Caner Şermet\Donanım Karşılaştırma Caner Şermet\obj\Debug\Donanım_Karşılaştırma_Caner_Şermet.Properties.Resources.resources
+C:\Users\CI5\Desktop\Donanım Karşılaştırma Caner Şermet\Donanım Karşılaştırma Caner Şermet\obj\Debug\Donanım Karşılaştırma Caner Şermet.csproj.GenerateResource.Cache
+C:\Users\CI5\Desktop\Donanım Karşılaştırma Caner Şermet\Donanım Karşılaştırma Caner Şermet\obj\Debug\Donanım_Karşılaştırma_Caner_Şermet.Islemcı_Karşılaştırma.resources
+C:\Users\CI5\Desktop\Donanım Karşılaştırma Caner Şermet\Donanım Karşılaştırma Caner Şermet\obj\Debug\Donanım_Karşılaştırma_Caner_Şermet.Islemcı_Sec.resources
+E:\Education\Projects\Projects\#Programlar\Donanım Karşılaştırma Caner Şermet\Donanım Karşılaştırma Caner Şermet\obj\Debug\Donanım Karşılaştırma Caner Şermet.csprojAssemblyReference.cache
+E:\Education\Projects\Projects\#Programlar\Donanım Karşılaştırma Caner Şermet\Donanım Karşılaştırma Caner Şermet\obj\Debug\Donanım_Karşılaştırma_Caner_Şermet.AnaForm.resources
+E:\Education\Projects\Projects\#Programlar\Donanım Karşılaştırma Caner Şermet\Donanım Karşılaştırma Caner Şermet\obj\Debug\Donanım_Karşılaştırma_Caner_Şermet.Islemcı_Karşılaştırma.resources
+E:\Education\Projects\Projects\#Programlar\Donanım Karşılaştırma Caner Şermet\Donanım Karşılaştırma Caner Şermet\obj\Debug\Donanım_Karşılaştırma_Caner_Şermet.Islemcı_Sec.resources
+E:\Education\Projects\Projects\#Programlar\Donanım Karşılaştırma Caner Şermet\Donanım Karşılaştırma Caner Şermet\obj\Debug\Donanım_Karşılaştırma_Caner_Şermet.Properties.Resources.resources
+E:\Education\Projects\Projects\#Programlar\Donanım Karşılaştırma Caner Şermet\Donanım Karşılaştırma Caner Şermet\obj\Debug\Donanım Karşılaştırma Caner Şermet.csproj.GenerateResource.cache
+E:\Education\Projects\Projects\#Programlar\Donanım Karşılaştırma Caner Şermet\Donanım Karşılaştırma Caner Şermet\obj\Debug\Donanım Karşılaştırma Caner Şermet.exe
+E:\Education\Projects\Projects\#Programlar\Donanım Karşılaştırma Caner Şermet\Donanım Karşılaştırma Caner Şermet\obj\Debug\Donanım Karşılaştırma Caner Şermet.pdb
+E:\Education\Projects\Projects\#Programlar\Donanım Karşılaştırma Caner Şermet\Donanım Karşılaştırma Caner Şermet\bin\Debug\Donanım Karşılaştırma Caner Şermet.exe
+E:\Education\Projects\Projects\#Programlar\Donanım Karşılaştırma Caner Şermet\Donanım Karşılaştırma Caner Şermet\bin\Debug\Donanım Karşılaştırma Caner Şermet.pdb
+E:\Education\Projects\Projects\#Programlar\Donanım Karşılaştırma BASIC\Donanım Karşılaştırma Caner Şermet\bin\Debug\Donanım Karşılaştırma Caner Şermet.exe
+E:\Education\Projects\Projects\#Programlar\Donanım Karşılaştırma BASIC\Donanım Karşılaştırma Caner Şermet\bin\Debug\Donanım Karşılaştırma Caner Şermet.pdb
+E:\Education\Projects\Projects\#Programlar\Donanım Karşılaştırma BASIC\Donanım Karşılaştırma Caner Şermet\obj\Debug\Donanım Karşılaştırma Caner Şermet.csprojAssemblyReference.cache
+E:\Education\Projects\Projects\#Programlar\Donanım Karşılaştırma BASIC\Donanım Karşılaştırma Caner Şermet\obj\Debug\Donanım_Karşılaştırma_Caner_Şermet.Properties.Resources.resources
+E:\Education\Projects\Projects\#Programlar\Donanım Karşılaştırma BASIC\Donanım Karşılaştırma Caner Şermet\obj\Debug\Donanım Karşılaştırma Caner Şermet.csproj.GenerateResource.cache
+E:\Education\Projects\Projects\#Programlar\Donanım Karşılaştırma BASIC\Donanım Karşılaştırma Caner Şermet\obj\Debug\Donanım Karşılaştırma Caner Şermet.exe
+E:\Education\Projects\Projects\#Programlar\Donanım Karşılaştırma BASIC\Donanım Karşılaştırma Caner Şermet\obj\Debug\Donanım Karşılaştırma Caner Şermet.pdb
+E:\Education\Projects\Projects\#Programlar\Donanım Karşılaştırma BASIC\Donanım Karşılaştırma Caner Şermet\obj\Debug\Hardware.AnaForm.resources
